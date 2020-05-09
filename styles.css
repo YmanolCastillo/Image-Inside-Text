@@ -1,0 +1,20 @@
+body
+{
+    height: 100vh;
+    background-color: rgb(26, 26, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#head
+{
+    background-image: url(Desrt.jpg);
+    background-size: cover;
+    background-position: top;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-family: 'Arial Black';
+    letter-spacing: 10px;
+    font-size: 14rem;
+}
